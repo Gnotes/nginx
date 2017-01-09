@@ -6,3 +6,5 @@
 [Nginx SSL Certificate Installation](https://www.digicert.com/ssl-certificate-installation-nginx.htm)
 [Nginx + https + 免费SSL证书配置指南](http://www.21andy.com/new/20100224/1714.html)
 [Module ngx_http_ssl_module](http://nginx.org/en/docs/http/ngx_http_ssl_module.html)
+[Nginx 下部署 HTTPS 与安全调优](https://laravel-china.org/topics/206)
+[nginx配置ssl加密（单/双向认证、部分https）](https://segmentfault.com/a/1190000002866627)
